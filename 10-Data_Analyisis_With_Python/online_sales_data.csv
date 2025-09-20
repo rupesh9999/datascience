@@ -1,0 +1,6 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+T1001,2025-09-15,Electronics,Wireless Earbuds,3,49.99,149.97,North,Credit Card
+T1002,2025-09-16,Home & Kitchen,Electric Kettle,5,25.50,127.50,West,UPI
+T1003,2025-09-17,Clothing,Men's T-Shirt,10,12.99,129.90,South,Cash
+T1004,2025-09-18,Books,Data Science Handbook,2,45.00,90.00,East,Debit Card
+T1005,2025-09-19,Beauty,Moisturizing Cream,4,18.75,75.00,Central,Digital Wallet
