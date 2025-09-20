@@ -1,0 +1,101 @@
+Date,Category,Value,Product,Sales,Region
+2025-04-02,Beauty,83.01,Moisturizing Cream,13,Central
+2025-08-30,Beauty,488.1,Shampoo,20,Central
+2025-01-20,Home & Kitchen,434.68,Blender,38,East
+2025-05-30,Beauty,24.93,Moisturizing Cream,46,East
+2025-05-27,Books,41.31,Novel,7,Central
+2025-04-18,Home & Kitchen,288.7,Microwave,10,West
+2025-06-10,Home & Kitchen,298.75,Microwave,28,South
+2025-01-04,Electronics,430.06,Laptop,49,East
+2025-07-30,Books,294.55,Data Science Handbook,37,South
+2025-06-28,Books,96.83,Cookbook,25,Central
+2025-05-24,Toys,222.03,Puzzle,23,West
+2025-04-30,Beauty,166.18,Moisturizing Cream,44,West
+2025-08-03,Home & Kitchen,442.24,Electric Kettle,21,West
+2025-02-08,Sports,218.37,Basketball,17,North
+2025-06-30,Sports,294.19,Football,17,West
+2025-02-24,Books,438.35,Data Science Handbook,42,North
+2025-03-29,Home & Kitchen,295.71,Toaster,23,West
+2025-03-23,Clothing,167.8,Women's Dress,2,Central
+2025-02-12,Home & Kitchen,95.94,Toaster,37,East
+2025-07-02,Home & Kitchen,38.65,Electric Kettle,46,East
+2025-01-16,Home & Kitchen,250.36,Blender,23,West
+2025-01-30,Clothing,140.07,Jeans,1,West
+2025-02-24,Home & Kitchen,255.48,Toaster,30,East
+2025-08-14,Electronics,142.57,Smartphone,11,West
+2025-04-17,Beauty,401.61,Moisturizing Cream,7,Central
+2025-07-14,Beauty,492.68,Moisturizing Cream,34,North
+2025-02-15,Beauty,345.46,Lipstick,4,West
+2025-08-29,Home & Kitchen,135.84,Blender,10,South
+2025-03-29,Books,453.27,Biography,42,Central
+2025-04-22,Sports,290.4,Basketball,13,West
+2025-04-10,Toys,34.0,Action Figure,12,Central
+2025-07-06,Beauty,299.36,Lipstick,41,South
+2025-06-21,Electronics,466.85,Smartphone,17,South
+2025-06-24,Books,373.68,Novel,38,North
+2025-01-31,Clothing,296.7,Men's T-Shirt,4,Central
+2025-06-20,Books,42.71,Cookbook,19,North
+2025-05-19,Books,150.73,Cookbook,31,East
+2025-04-27,Sports,173.44,Basketball,18,North
+2025-03-12,Toys,267.86,Puzzle,30,East
+2025-07-28,Sports,322.24,Tennis Racket,17,Central
+2025-03-20,Sports,185.34,Yoga Mat,13,Central
+2025-07-27,Sports,366.03,Tennis Racket,49,West
+2025-06-03,Home & Kitchen,433.71,Toaster,26,South
+2025-02-05,Electronics,273.91,Wireless Earbuds,30,West
+2025-03-31,Clothing,36.23,Jeans,43,South
+2025-06-22,Clothing,198.4,Jeans,32,North
+2025-06-06,Clothing,43.03,Men's T-Shirt,25,South
+2025-04-09,Clothing,260.95,Men's T-Shirt,21,East
+2025-01-18,Beauty,13.01,Moisturizing Cream,2,East
+2025-07-26,Books,164.35,Cookbook,9,South
+2025-02-18,Toys,161.46,Board Game,30,South
+2025-09-15,Beauty,193.04,Lipstick,34,Central
+2025-06-12,Toys,29.93,Puzzle,9,South
+2025-09-04,Home & Kitchen,173.11,Microwave,5,North
+2025-06-11,Toys,76.67,Doll,16,East
+2025-09-19,Home & Kitchen,161.45,Microwave,39,East
+2025-04-14,Books,381.96,Data Science Handbook,15,Central
+2025-01-29,Clothing,371.97,Women's Dress,39,North
+2025-07-02,Toys,247.15,Puzzle,28,South
+2025-03-18,Beauty,92.89,Lipstick,2,Central
+2025-06-18,Sports,361.14,Basketball,31,East
+2025-01-22,Clothing,369.17,Women's Dress,47,South
+2025-04-16,Clothing,148.52,Jacket,45,Central
+2025-05-24,Beauty,471.34,Perfume,43,West
+2025-07-15,Sports,495.35,Football,2,East
+2025-07-22,Beauty,144.34,Shampoo,45,North
+2025-08-01,Electronics,80.46,Smartwatch,38,West
+2025-02-08,Beauty,114.72,Moisturizing Cream,39,South
+2025-01-18,Home & Kitchen,227.32,Microwave,35,North
+2025-07-13,Beauty,221.84,Moisturizing Cream,13,East
+2025-01-29,Sports,494.99,Tennis Racket,30,East
+2025-03-25,Home & Kitchen,307.76,Blender,25,West
+2025-09-05,Beauty,205.55,Lipstick,37,South
+2025-06-01,Sports,302.17,Tennis Racket,27,West
+2025-06-06,Toys,25.2,Board Game,16,East
+2025-04-30,Sports,180.99,Football,41,South
+2025-04-02,Sports,429.64,Football,39,East
+2025-05-16,Beauty,190.82,Lipstick,44,North
+2025-09-17,Clothing,47.38,Jacket,23,West
+2025-01-26,Books,73.29,Cookbook,32,West
+2025-01-21,Home & Kitchen,417.2,Microwave,13,East
+2025-05-24,Home & Kitchen,362.14,Blender,4,Central
+2025-07-24,Electronics,147.54,Laptop,47,Central
+2025-03-06,Toys,203.35,Action Figure,40,West
+2025-01-29,Electronics,446.98,Wireless Earbuds,40,Central
+2025-09-11,Electronics,154.41,Smartphone,11,West
+2025-07-10,Books,150.97,Data Science Handbook,16,North
+2025-09-02,Beauty,495.34,Moisturizing Cream,33,North
+2025-04-06,Toys,275.01,Action Figure,37,North
+2025-08-16,Books,246.81,Data Science Handbook,46,North
+2025-03-23,Books,495.84,Biography,33,South
+2025-02-04,Books,15.86,Cookbook,7,Central
+2025-06-20,Electronics,32.82,Wireless Earbuds,13,North
+2025-08-09,Home & Kitchen,237.6,Toaster,16,East
+2025-08-07,Books,219.87,Novel,32,North
+2025-09-10,Electronics,329.25,Smartwatch,21,West
+2025-01-19,Beauty,467.06,Moisturizing Cream,48,North
+2025-08-26,Home & Kitchen,16.0,Microwave,44,South
+2025-04-28,Clothing,467.68,Jacket,15,East
+2025-08-02,Electronics,22.96,Laptop,34,Central
