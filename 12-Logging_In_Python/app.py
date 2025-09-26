@@ -12,35 +12,34 @@ logging.basicConfig(
     ]
 )
 
-logger=logging.getLogger("ArithmeticApp")
+logger = logging.getLogger("ArithmeticApp")
 
-def add(a,b):
-    result=a+b
+def add(a, b):
+    result = a + b
     logger.debug(f"Adding {a} + {b} = {result}")
     return result 
 
-def sub(a,b):
-    result=a-b
-    logger.debug(f"Subtracting {a} - {b}", result)
+def sub(a, b):
+    result = a - b
+    logger.debug(f"Subtracting {a} - {b} = {result}")
     return result
 
-def mul(a,b):
-    result=a*b
-    logger.debug(f"Multiplying {a} * {b}", result)
+def mul(a, b):
+    result = a * b
+    logger.debug(f"Multiplying {a} * {b} = {result}")
     return result
 
-def div(a,b):
-   try:
-    result=a/b
-    logger.debug(f"Dividing {a} / {b}", result)
-    return result
-   except ZeroDivisionError:
-      logger.error("Division by zero error")
-      return None
+def div(a, b):
+    try:
+        result = a / b
+        logger.debug(f"Dividing {a} / {b} = {result}")
+        return result
+    except ZeroDivisionError:
+        logger.error("Division by zero error")
+        return None
 
-
-add(10,15)
-sub(10,15)
-mul(10,15)
-div(10,15)
-div(10,0)
+add(10, 15)
+sub(10, 15)
+mul(10, 15)
+div(10, 15)
+div(10, 0)
