@@ -1,0 +1,14 @@
+2025-09-25 16:15:41-root-DEBUG-This is a debug message
+2025-09-25 16:15:41-root-INFO-This is an info message
+2025-09-25 16:15:41-root-WARNING-This is an error message
+2025-09-25 16:15:41-root-CRITICAL-This is a critical message
+2025-09-25 16:19:00-root-DEBUG-This is a debug message
+2025-09-25 16:19:00-root-INFO-This is an info message
+2025-09-25 16:19:00-root-WARNING-This is an error message
+2025-09-25 16:19:00-root-CRITICAL-This is a critical message
+2025-09-25 16:20:59-root-DEBUG-This is a debug message
+2025-09-25 16:20:59-root-INFO-This is an info message
+2025-09-25 16:20:59-root-WARNING-This is an error message
+2025-09-25 16:20:59-root-CRITICAL-This is a critical message
+2025-09-25 16:59:47-ArithmeticApp-ERROR-Division by zero error
+2025-09-25 17:02:01-ArithmeticApp-ERROR-Division by zero error
