@@ -1,8 +1,10 @@
-#ipykernel
-#numpy
-#pandas
-#bs4
-#requests
-#flask
-#memory_profiler
+ipykernel
+numpy
+pandas
+bs4
+requests
+flask
+memory_profiler
 streamlit
+scikit-learn
+matplotlib
